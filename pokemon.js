@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const pokemonList = data.results;
 
                 const container = document.createElement("div");
-                container.className = "container text-center";
+                container.className = "container-block text-center";
 
                 for (let i = 0; i < pokemonList.length; i += 4) {
                     const row = document.createElement("div");
