@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         colDiv.className = "col-xl-3 col-md-3 mb-0";
 
                         colDiv.innerHTML = `
-                            <div class="card o-hidden border-0 shadow-lg my-2">
+                            <div class="card border-primary my-2">
                                 <div class="card-body">
                                     <div class="row no-gutters">
                                         <div class="col mr-0">
