@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     <div class="row no-gutters">
                                         <div class="col mr-0">
                                             <div class="h5 mb-2 mr-0 font-weight-bold text-gray-800">${pokemonHurufBesar}</div>
-                                            <a href="index.html" class="btn btn-primary btn-user">
+                                            <a href="${pokemon.url}" class="btn btn-primary btn-user">
                                                 Detail
                                             </a>
                                         </div>
